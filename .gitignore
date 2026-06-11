@@ -2,3 +2,5 @@
 *.idlk
 *.af~lock~
 *.idlk
+.DS_Store
+.DS_Store
