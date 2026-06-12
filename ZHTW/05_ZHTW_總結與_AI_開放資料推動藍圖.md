@@ -1,14 +1,22 @@
+---
+title: 第五章 總結與 AI 開放資料推動藍圖
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # 第五章 總結與 AI 開放資料推動藍圖
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 21-25._
 
 ## 圖片
 
-![繁中第五章主視覺：AI 開放資料推動藍圖](../assets/zhtw-ch5-main-visual.png "繁中版第五章主視覺")
+![繁中第五章主視覺：AI 開放資料推動藍圖](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch5-main-visual.png "繁中版第五章主視覺")
 
-![繁中邁向 AI-Ready 資料挑戰因應路徑圖第一頁](../assets/zhtw-ch5-roadmap-1.png "繁中版路徑圖第一頁")
+![繁中邁向 AI-Ready 資料挑戰因應路徑圖第一頁](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch5-roadmap-1.png "繁中版路徑圖第一頁")
 
-![繁中邁向 AI-Ready 資料挑戰因應路徑圖第二頁](../assets/zhtw-ch5-roadmap-2.png "繁中版路徑圖第二頁")
+![繁中邁向 AI-Ready 資料挑戰因應路徑圖第二頁](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch5-roadmap-2.png "繁中版路徑圖第二頁")
 
 本章內容來自五個案例在實際操作中累積的具體經驗，依序說明格式轉換的技術選擇、個資去識別化的實作方法、訓練資料偏見的辨識與處理，以及長期資料管理的基礎建設規劃。每個主題都會呈現案例中採用的工具、遭遇的限制，以及最終選擇特定做法的考量因素，聚焦在第一線工作者能夠實際應用的步驟。有些機關或團隊，基於專業職責或服務品質的考量，希望在資料處理上投入更多心力。這一章便是為這些讀者準備的指引。
 

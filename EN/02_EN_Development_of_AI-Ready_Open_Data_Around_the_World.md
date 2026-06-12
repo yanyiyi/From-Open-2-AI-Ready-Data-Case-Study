@@ -1,14 +1,22 @@
+---
+title: "Chapter 2: The Development of AI-Ready Open Data Around the World"
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Chapter 2: The Development of AI-Ready Open Data Around the World
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 10-13._
 
 ## Figures
 
-![English TOE analysis framework table](../assets/en-ch2-toe-framework.png "英文版 TOE analysis framework")
+![English TOE analysis framework table](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch2-toe-framework.png "英文版 TOE analysis framework")
 
-![English case positioning matrix](../assets/en-ch2-case-matrix.png "英文版 case positioning matrix")
+![English case positioning matrix](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch2-case-matrix.png "英文版 case positioning matrix")
 
-![English geographical distribution map of case studies](../assets/en-ch2-case-map.png "英文版 geographical distribution map")
+![English geographical distribution map of case studies](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch2-case-map.png "英文版 geographical distribution map")
 
 This chapter first introduces how AI-ready open data is being implemented across diverse jurisdictions, along with case studies drawn from this research’s interviews with several related projects and organizations. These examples aim to give readers a concrete understanding of the practical use of AI-ready data.
 

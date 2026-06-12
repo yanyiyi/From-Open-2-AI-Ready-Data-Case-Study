@@ -1,10 +1,18 @@
+---
+title: "From Open Data to AI-Ready Data: International Practices for Empowering Data Stewards and Advancing Citizen-Government Dialogue"
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # From Open Data to AI-Ready Data: International Practices for Empowering Data Stewards and Advancing Citizen-Government Dialogue
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 1-6._
 
 ## Cover
 
-![English cover of From Open Data to AI-Ready Data](../assets/en-cover.png "English cover")
+![English cover of From Open Data to AI-Ready Data](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-cover.png "English cover")
 
 ## Table of Contents
 

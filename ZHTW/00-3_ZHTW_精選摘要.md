@@ -1,4 +1,12 @@
+---
+title: 精選摘要
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # 精選摘要
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 4-5._
 

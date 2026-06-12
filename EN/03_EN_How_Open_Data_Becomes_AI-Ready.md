@@ -1,10 +1,18 @@
+---
+title: "Chapter 3: How Open Data Becomes AI-Ready"
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Chapter 3: How Open Data Becomes AI-Ready
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 14-18._
 
 ## Figures
 
-![English chapter 3 main visual showing AI-ready data transformation](../assets/en-ch3-main-visual.png "英文版 Chapter 3 main visual")
+![English chapter 3 main visual showing AI-ready data transformation](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch3-main-visual.png "英文版 Chapter 3 main visual")
 
 This chapter summarizes the technical experiences of transforming open data into AI-ready data based on the case study interviews presented earlier. Many people assume that upgrading to AI-ready requires expensive software or labor-intensive manual intervention for data cleaning. However, the interviews indicate that in most cases, simply following existing open data workflows-even in a simplified form-can effectively produce AI-ready data.
 

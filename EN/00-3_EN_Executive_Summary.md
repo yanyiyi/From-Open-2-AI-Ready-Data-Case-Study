@@ -1,4 +1,12 @@
+---
+title: Executive Summary
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Executive Summary
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 5-6._
 

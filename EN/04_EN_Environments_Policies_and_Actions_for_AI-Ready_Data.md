@@ -1,10 +1,18 @@
+---
+title: "Chapter 4: What Environments, Policies, and Adaptive Actions Are Essential to Advance AI-Ready Data"
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Chapter 4: What Environments, Policies, and Adaptive Actions Are Essential to Advance AI-Ready Data
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 19-23._
 
 ## Figures
 
-![English chapter 4 main visual showing data governance and legal frameworks](../assets/en-ch4-main-visual.png "英文版 Chapter 4 main visual")
+![English chapter 4 main visual showing data governance and legal frameworks](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch4-main-visual.png "英文版 Chapter 4 main visual")
 
 This chapter uses the TOE analysis framework to examine the cases collected in this study, highlighting the institutional, organizational, and environmental contexts that enable open data to gradually transition toward AI-interoperable frameworks. By comparing different countries and cases, the research team aims to show that there is no single perfect institutional environment for achieving AI-ready data. Rather, different governance models can develop implementation approaches suited to their contexts. The chapter further examines how each case advances AI-ready data initiatives through institutional design and organizational collaboration within existing governance structures, regulatory regimes, and available policy support.
 

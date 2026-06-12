@@ -1,10 +1,18 @@
+---
+title: 從開放資料到 AI-Ready 國際實踐研究：賦能資料管理者，促進公民與政府的對話
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # 從開放資料到 AI-Ready 國際實踐研究：賦能資料管理者，促進公民與政府的對話
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 1-5._
 
 ## 封面
 
-![繁中封面：從開放資料到 AI-Ready 國際實踐研究](../assets/zhtw-cover.png "繁中封面")
+![繁中封面：從開放資料到 AI-Ready 國際實踐研究](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-cover.png "繁中封面")
 
 ## 目錄
 

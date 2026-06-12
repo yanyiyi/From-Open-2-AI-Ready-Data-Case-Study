@@ -1,4 +1,12 @@
+---
+title: Imprint and Copyright Statement
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Imprint and Copyright Statement
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 1-6._
 

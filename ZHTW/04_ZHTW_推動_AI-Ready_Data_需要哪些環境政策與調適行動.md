@@ -1,10 +1,18 @@
+---
+title: 第四章 推動 AI-Ready Data 需要哪些環境、政策與調適行動
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # 第四章 推動 AI-Ready Data 需要哪些環境、政策與調適行動
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 17-20._
 
 ## 圖片
 
-![繁中第四章主視覺：資料治理與法律框架](../assets/zhtw-ch4-main-visual.png "繁中版第四章主視覺")
+![繁中第四章主視覺：資料治理與法律框架](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch4-main-visual.png "繁中版第四章主視覺")
 
 本章旨在透過 TOE 分析框架，分析本研究所蒐集之案例，說明在何種制度、組織與環境脈絡下，得以促使開放資料逐步邁向 AI 整合運用。透過不同國家與案例的交叉比較，本研究團隊希望呈現並非僅有「具備最佳條件的環境」方能推動 AI-Ready 資料，而是各種不同治理情境中，皆可能發展出相對適切的推動模式。本章亦進一步探討，各案例如何在既有治理限制、法規規範與政策支持條件下，透過制度設計與組織協作等實務調整，推動 AI-Ready 資料相關作法。
 

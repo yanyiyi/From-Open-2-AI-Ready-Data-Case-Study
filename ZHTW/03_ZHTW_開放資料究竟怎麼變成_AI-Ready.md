@@ -1,10 +1,18 @@
+---
+title: 第三章 開放資料究竟怎麼變成 AI-Ready
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # 第三章 開放資料究竟怎麼變成 AI-Ready
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 13-16._
 
 ## 圖片
 
-![繁中第三章主視覺：開放資料變成 AI-Ready](../assets/zhtw-ch3-main-visual.png "繁中版第三章主視覺")
+![繁中第三章主視覺：開放資料變成 AI-Ready](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch3-main-visual.png "繁中版第三章主視覺")
 
 本章將從上一章提及的案例訪談中，擷取讓開放資料變成 AI-ready 的技術實務經驗。
 

@@ -1,14 +1,22 @@
+---
+title: 第二章 世界各地 AI-Ready 開放資料發展
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # 第二章 世界各地 AI-Ready 開放資料發展
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 9-12._
 
 ## 圖片
 
-![繁中 TOE 分析架構圖](../assets/zhtw-ch2-toe-framework.png "繁中版 TOE 分析架構")
+![繁中 TOE 分析架構圖](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch2-toe-framework.png "繁中版 TOE 分析架構")
 
-![繁中案例挑選定位象限圖](../assets/zhtw-ch2-case-matrix.png "繁中版案例挑選定位象限")
+![繁中案例挑選定位象限圖](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch2-case-matrix.png "繁中版案例挑選定位象限")
 
-![繁中案例研究地理分布圖](../assets/zhtw-ch2-case-map.png "繁中版案例研究地理分布圖")
+![繁中案例研究地理分布圖](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/zhtw-ch2-case-map.png "繁中版案例研究地理分布圖")
 
 在介紹如何將開放資料轉變為 AI-Ready Data 之前，本研究將先介紹 AI-Ready 開放資料在世界各地的實踐，以及本研究訪談數個相關專案與組織的案例，讓讀者對於AI-Ready 資料的實際運用能有所了解。
 

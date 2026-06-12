@@ -1,10 +1,18 @@
+---
+title: "Chapter 1: Introduction"
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Chapter 1: Introduction
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 7-9._
 
 ## Figures
 
-![English AI-ready open data FAQ graphic](../assets/en-ch1-ai-ready-faq.png "英文版 AI-ready open data FAQ graphic")
+![English AI-ready open data FAQ graphic](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch1-ai-ready-faq.png "英文版 AI-ready open data FAQ graphic")
 
 This report aims to introduce the concept of AI-ready data, assess its contributions to innovation and democratic governance, explore how it can be achieved, and examine how it is being practiced in countries around the world.
 

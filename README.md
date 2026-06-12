@@ -1,4 +1,12 @@
+---
+title: From Open Data to AI-Ready Data
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # From Open Data to AI-Ready Data
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 This repository keeps the English and Traditional Chinese Markdown versions as two separate reading paths. Images are shared in `assets/`, with each language file linking to the corresponding language version of the figures.
 

@@ -1,14 +1,22 @@
+---
+title: "Chapter 5: Conclusion and Roadmap for Promoting AI-Ready Open Data"
+tags: [AI-Ready 開放資料, 開放科技]
+
+---
+
 # Chapter 5: Conclusion and Roadmap for Promoting AI-Ready Open Data
+
+[![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-en.pdf, pp. 24-29._
 
 ## Figures
 
-![English chapter 5 main visual showing an AI-ready open data roadmap](../assets/en-ch5-main-visual.png "英文版 Chapter 5 main visual")
+![English chapter 5 main visual showing an AI-ready open data roadmap](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch5-main-visual.png "英文版 Chapter 5 main visual")
 
-![English roadmap tables for collaborative relationships and licensing terms](../assets/en-ch5-roadmap-1.png "英文版 roadmap page 1")
+![English roadmap tables for collaborative relationships and licensing terms](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch5-roadmap-1.png "英文版 roadmap page 1")
 
-![English roadmap tables for data circulation and technical infrastructure](../assets/en-ch5-roadmap-2.png "英文版 roadmap page 2")
+![English roadmap tables for data circulation and technical infrastructure](https://raw.githubusercontent.com/yanyiyi/From-Open-2-AI-Ready-Data-Case-Study/main/assets/en-ch5-roadmap-2.png "英文版 roadmap page 2")
 
 ## 5.1 Implementation Modules and Roadmap
 
