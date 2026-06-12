@@ -6,6 +6,9 @@ tags: [AI-Ready 開放資料, 開放科技]
 
 # 第二章 世界各地 AI-Ready 開放資料發展
 
+[![hackmd-github-sync-badge](https://hackmd.io/5PAn2_DqTZaUfY6SBFA_wQ/badge)](https://hackmd.io/5PAn2_DqTZaUfY6SBFA_wQ)
+
+
 [![hackmd-github-sync-badge](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ/badge)](https://hackmd.io/XvNPhgwOT4mBtd7oMh8opQ)
 
 _Source: OCF-AI-zhtw.pdf, pp. 9-12._
